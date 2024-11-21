@@ -1,0 +1,17 @@
+# Vivado-generated files
+*.jou
+*.log
+*.str
+*.ncd
+*.ngc
+*.ngd
+*.xml
+*.bgn
+*.xpr
+*.cache/
+*.hw/
+*.runs/
+*.sim/
+*.sdk/
+*.ip_user_files/
+.Xil/
